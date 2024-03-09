@@ -1,18 +1,7 @@
 # SSU_meet!
-
-<br>Flutter 3.13.1 • channel stable • https://github.com/flutter/flutter.git
-<br>Framework • revision e1e47221e8 (6일 전) • 2023-08-22 21:43:18 -0700
-<br>Engine • revision b20183e040
-<br>Tools • Dart 3.1.0 • DevTools 2.25.0
-
-<br>Running flutter doctor...
-<br>Doctor summary (to see all details, run flutter doctor -v):
-<br>[✓] Flutter (Channel stable, 3.13.1, on macOS 13.1 22C65 darwin-arm64, locale ko-KR)
-<br>[✓] Android toolchain - develop for Android devices (Android SDK version 33.0.1)
-<br>[✓] Xcode - develop for iOS and macOS (Xcode 14.3.1)
-<br>[✓] Chrome - develop for the web
-<br>[✓] Android Studio (version 2022.1)
-<br>[✓] IntelliJ IDEA Ultimate Edition (version 2023.1.3)
-<br>[✓] VS Code (version 1.80.1)
-<br>[✓] Connected device (2 available)
-<br>[✓] Network resources
+![IMG_3041](https://github.com/sunjae0902/ssu_meet/assets/96765626/9d8e73b7-47e9-485a-a73c-19d8953d5201)
+![IMG_3038](https://github.com/sunjae0902/ssu_meet/assets/96765626/6aeec0b9-802b-47eb-8544-a31ba1fb37de)
+![IMG_3037](https://github.com/sunjae0902/ssu_meet/assets/96765626/bfe2a746-d47c-4e40-ae28-3901b1c247fe)
+![IMG_3036](https://github.com/sunjae0902/ssu_meet/assets/96765626/081034cc-09f6-43f4-95de-4954e94ee675)
+![IMG_3035](https://github.com/sunjae0902/ssu_meet/assets/96765626/ff67ffaa-651c-4064-9a70-dcbaf9026521)
+![IMG_3034](https://github.com/sunjae0902/ssu_meet/assets/96765626/7c5e74ec-2f98-49cf-8316-c08a1b9eae38)
